@@ -1,4 +1,4 @@
-# online_food_ordering_web
+# Restaurant-App-Demo
 
 A new Flutter project.
 
